@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimpleMission>
+	<Command>command</Command>
+	<Command>takeoff</Command>
+	<Command>left</Command>
+	<Command>right</Command>
+	<Command>land</Command>
+</SimpleMission>
